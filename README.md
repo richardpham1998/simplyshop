@@ -14,7 +14,7 @@ Created by Richard Pham, Adam Ball, and Christina Nguyen.
 - [Prerequisites for Set-up](https://github.com/richardphamsjsu2016/simplyshop#prerequisites-for-set-up)
 - [How to Run the Project](https://github.com/richardphamsjsu2016/simplyshop#how-to-run-the-project)
 - [Class and Sequence Diagrams](https://github.com/richardphamsjsu2016/simplyshop#class-and-sequence-diagrams)
-- [Database Schema and Example Queries](https://github.com/richardphamsjsu2016/simplyshop#database-schema-and-example-queries)
+- [Database Schema and Example Queries](https://github.com/richardphamsjsu2016/simplyshop#database-schemas)
 - [Spring Boot API Endpoints](https://github.com/richardphamsjsu2016/simplyshop#spring-boot-api-endpoints)
 - [Frontend to Backend Data Transport](https://github.com/richardphamsjsu2016/simplyshop#frontend-to-backend-data-transport)
 - [Docker Instructions](https://github.com/richardphamsjsu2016/simplyshop#docker-instructions)
