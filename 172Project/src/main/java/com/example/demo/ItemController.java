@@ -38,6 +38,7 @@ import com.amazonaws.services.s3.model.S3Object;
 import com.amazonaws.services.s3.model.S3ObjectSummary;
 import com.example.demo.model.Item;
 
+//Created by Christina Nguyen
 @RestController
 public class ItemController {
 
