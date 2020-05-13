@@ -158,7 +158,7 @@ Within Spring Boot, the application creates a connection to AWS with pre-set cre
 
 ### Docker Instructions
 
-The Spring Boot app can be dockerized, and it was dockerized before deploying it on AWS EC2. The dockerized file has not been provided here; only the .jar file is. To manually dockerize the app:
+The Spring Boot app can be dockerized, and it was dockerized before deploying it on AWS EC2. The dockerized file has not been provided here. However, a Dockerfile used for deployment is provided. To manually dockerize the app:
 1) Load the project into Eclipse IDE for Java EE Developers 2020-03.
 2) Inside the project folder, create a file called “Dockerfile”. Make sure to keep the capital “D”. 
 3) Fill in the Dockerfile with the following information:
