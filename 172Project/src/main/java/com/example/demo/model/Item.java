@@ -10,6 +10,8 @@ import javax.persistence.OneToOne;
 import javax.validation.constraints.Min;
 
 import org.hibernate.validator.constraints.Length;
+
+//Created by Christina Nguyen
 @Entity(name="item")
 public class Item {
 	//private String name, category, price, quantity, description, id;
