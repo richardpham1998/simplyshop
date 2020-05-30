@@ -27,9 +27,7 @@ Future updates will include a login option for the user as well as a cart system
 
 ### Links to Application
 
-[Main application, including frontend](http://52.87.248.183:3000/)
-
-[Springboot backend](http://ec2-54-164-61-67.compute-1.amazonaws.com:8080/)
+Instances have been taken down since May 21, 2020.
 
 ### Screenshots
 
